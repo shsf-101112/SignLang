@@ -1,0 +1,17 @@
+              precision    recall  f1-score   support
+
+     alright       1.00      0.67      0.80         6
+        cool       1.00      1.00      1.00         6
+        good       0.86      1.00      0.92         6
+       hello       0.71      0.83      0.77         6
+         job       1.00      0.67      0.80         6
+         new       1.00      1.00      1.00         6
+   secretary       1.00      0.83      0.91         6
+       sorry       1.00      1.00      1.00         6
+        Team       0.70      1.00      0.82         7
+  Technology       1.00      1.00      1.00         6
+    thankyou       1.00      1.00      1.00         6
+
+    accuracy                           0.91        67
+   macro avg       0.93      0.91      0.91        67
+weighted avg       0.93      0.91      0.91        67
