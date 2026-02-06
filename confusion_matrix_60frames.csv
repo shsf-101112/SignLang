@@ -1,0 +1,12 @@
+,alright,cool,good,hello,job,new,secretary,sorry,Team,Technology,thankyou
+alright,6,0,0,0,0,0,0,0,0,0,0
+cool,0,5,0,0,0,0,0,1,0,0,0
+good,0,0,6,0,0,0,0,0,0,0,0
+hello,0,0,0,6,0,0,0,0,0,0,0
+job,0,0,0,0,6,0,0,0,0,0,0
+new,0,0,0,0,0,6,0,0,0,0,0
+secretary,0,0,0,0,0,0,6,0,0,0,0
+sorry,0,0,0,0,0,0,0,6,0,0,0
+Team,0,0,0,0,0,0,0,0,7,0,0
+Technology,0,0,0,0,0,0,0,0,0,6,0
+thankyou,0,0,0,0,0,0,0,0,0,0,6
